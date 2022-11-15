@@ -5,7 +5,6 @@ import argparse
 import xlsxwriter as xls
 import pyautogui, subprocess, time
 import os
-import logging
 import socket
 from bs4 import BeautifulSoup 
 
